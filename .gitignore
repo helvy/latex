@@ -1,0 +1,13 @@
+$ cat .gitignore
+*.odg
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.synctex
+*.toc
+*.tex
+
+*.png
