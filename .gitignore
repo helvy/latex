@@ -1,4 +1,3 @@
-$ cat .gitignore
 *.odg
 *.pdf
 *.aux
@@ -9,5 +8,4 @@ $ cat .gitignore
 *.synctex
 *.toc
 *.tex
-
 *.png
